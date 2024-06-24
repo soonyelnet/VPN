@@ -5,3 +5,5 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInQubWUvdjJMaW5lIHwgKDE1MzQpIFVTIiwNCiAg
 vless://222b5877-b0b6-4dc7-8b77-fe8f1fc94dab@zula.ir:80?encryption=none&security=none&type=ws&host=De2.vless.site.&path=%2Fvless#t.me%2Fv2Line%20%7C%20%281533%29%20DE
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaWZ0IiwKICAiYWRkIjogImRldi5wZW5jaWxpdHNvbHV0aW9ucy5zaG9wIiwKICAicG9ydCI6IDM1MzI0LAogICJpZCI6ICJCYTU4NWNjMC1iZGNlLTQwN2YtYjA2ZS0yZTViMDZkMTU1N2QiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=
+
+vless://a24b4894-414a-48e0-8397-53bccb26aaa3@engage.cloudflareclient.com:443?encryption=none&security=tls&sni=bpla.soonyelnet.workers.dev&type=ws&host=bpla.soonyelnet.workers.dev#Emergency
