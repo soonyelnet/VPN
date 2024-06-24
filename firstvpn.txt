@@ -7,3 +7,14 @@ vless://222b5877-b0b6-4dc7-8b77-fe8f1fc94dab@zula.ir:80?encryption=none&security
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJHaWZ0IiwKICAiYWRkIjogImRldi5wZW5jaWxpdHNvbHV0aW9ucy5zaG9wIiwKICAicG9ydCI6IDM1MzI0LAogICJpZCI6ICJCYTU4NWNjMC1iZGNlLTQwN2YtYjA2ZS0yZTViMDZkMTU1N2QiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=
 
 vless://a24b4894-414a-48e0-8397-53bccb26aaa3@engage.cloudflareclient.com:443?encryption=none&security=tls&sni=bpla.soonyelnet.workers.dev&type=ws&host=bpla.soonyelnet.workers.dev#Emergency
+
+
+vless://b0286bc2-e17c-4c17-b0e6-d39c93f74937@borhtorhti-asw.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=borhtorhti-asw.pages.dev&fp=randomized&type=ws&sni=borhtorhti-asw.pages.dev#wk1
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.48:443?path=%2FXjrZBoIkgWXwkSjE%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=HiBOSs.PagEs.dEV&fp=randomized&type=ws&sni=HIBOss.pageS.dEv#test
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2Fit6buxPi7NcZc6nQ%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PanEL.AlIghaDRbolAnD.IR&fp=randomized&type=ws&sni=PANEL.ALiGHADrBOLand.Ir#%F0%9F%92%A6+BPLA%20Free1
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.10.80:443?path=%2FkOE7dURXc2pP5Mwn%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Panel.alighADRboLANd.IR&fp=randomized&type=ws&sni=PanEl.aligHAdRbOlAnD.IR#%F0%9F%92%A6+BPLAFree2
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.144.238:443?path=%2FdowrjS8PgBctgtVv%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=paNEL.ALiGhAdRbOLAND.ir&fp=randomized&type=ws&sni=PaneL.AliGhAdrbolAnd.ir#%F0%9F%92%A6+BPLA
