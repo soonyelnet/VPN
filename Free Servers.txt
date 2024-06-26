@@ -14,8 +14,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2Fit6bu
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.10.80:443?path=%2FkOE7dURXc2pP5Mwn%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Panel.alighADRboLANd.IR&fp=randomized&type=ws&sni=PanEl.aligHAdRbOlAnD.IR#%F0%9F%9B%A1+BPLA%20Free%202
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.144.238:443?path=%2FdowrjS8PgBctgtVv%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=paNEL.ALiGhAdRbOLAND.ir&fp=randomized&type=ws&sni=PaneL.AliGhAdrbolAnd.ir#%F0%9F%9B%A1
-+BPLA%20Free%203
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.144.238:443?path=%2FdowrjS8PgBctgtVv%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=paNEL.ALiGhAdRbOLAND.ir&fp=randomized&type=ws&sni=PaneL.AliGhAdrbolAnd.ir#%F0%9F%9B%A1+BPLA%20Free%203
 
 vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?encryption=none&security=tls&sni=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg24.pages.dev&path=%2F#Free3
 
