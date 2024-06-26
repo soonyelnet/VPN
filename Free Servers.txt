@@ -4,17 +4,18 @@ vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?encryption=none
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJVUyBGcmVlIDEiLAogICJhZGQiOiAiMTA0LjIxLjgzLjEwOCIsCiAgInBvcnQiOiAiNDQzIiwKICAiaWQiOiAiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwKICAiYWlkIjogIjAiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiaG1zMDIuZnhpYW9taS5zYnMiLAogICJwYXRoIjogIi9saW5rIiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICJobXMwMi5meGlhb21pLnNicyIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIgp9
 
-vless://a24b4894-414a-48e0-8397-53bccb26aaa3@engage.cloudflareclient.com:443?encryption=none&security=tls&sni=bpla.soonyelnet.workers.dev&type=ws&host=bpla.soonyelnet.workers.dev#Emergency
+vless://a24b4894-414a-48e0-8397-53bccb26aaa3@engage.cloudflareclient.com:443?encryption=none&security=tls&sni=bpla.soonyelnet.workers.dev&type=ws&host=bpla.soonyelnet.workers.dev#%F0%9F%9B%A1%20Emergency
 
 vless://b0286bc2-e17c-4c17-b0e6-d39c93f74937@borhtorhti-asw.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=borhtorhti-asw.pages.dev&fp=randomized&type=ws&sni=borhtorhti-asw.pages.dev#wk1
 
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.48:443?path=%2FXjrZBoIkgWXwkSjE%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=HiBOSs.PagEs.dEV&fp=randomized&type=ws&sni=HIBOss.pageS.dEv#test
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2Fit6buxPi7NcZc6nQ%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PanEL.AlIghaDRbolAnD.IR&fp=randomized&type=ws&sni=PANEL.ALiGHADrBOLand.Ir#%F0%9F%92%A6+BPLA%20Free%201
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=%2Fit6buxPi7NcZc6nQ%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=PanEL.AlIghaDRbolAnD.IR&fp=randomized&type=ws&sni=PANEL.ALiGHADrBOLand.Ir#%F0%9F%9B%A1+BPLA%20Free%201
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.10.80:443?path=%2FkOE7dURXc2pP5Mwn%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Panel.alighADRboLANd.IR&fp=randomized&type=ws&sni=PanEl.aligHAdRbOlAnD.IR#%F0%9F%92%A6+BPLA%20Free%202
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.10.80:443?path=%2FkOE7dURXc2pP5Mwn%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Panel.alighADRboLANd.IR&fp=randomized&type=ws&sni=PanEl.aligHAdRbOlAnD.IR#%F0%9F%9B%A1+BPLA%20Free%202
 
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.144.238:443?path=%2FdowrjS8PgBctgtVv%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=paNEL.ALiGhAdRbOLAND.ir&fp=randomized&type=ws&sni=PaneL.AliGhAdrbolAnd.ir#%F0%9F%92%A6+BPLA
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.67.144.238:443?path=%2FdowrjS8PgBctgtVv%2FMTUwLjk1LjI1LjEw%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=paNEL.ALiGhAdRbOLAND.ir&fp=randomized&type=ws&sni=PaneL.AliGhAdrbolAnd.ir#%F0%9F%9B%A1
++BPLA%20Free%203
 
 vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?encryption=none&security=tls&sni=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg24.pages.dev&path=%2F#Free3
 
