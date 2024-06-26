@@ -1,10 +1,10 @@
-trojan://a7664db7-2782-4ef0-86a0-e3fec9185dd8@sg-full.privateip.net:443#AMM💣
+trojan://a7664db7-2782-4ef0-86a0-e3fec9185dd8@sg-full.privateip.net:443#AMM
 
-vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?encryption=none&security=tls&sni=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg24.pages.dev&path=%2F#Germany💣
+vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?encryption=none&security=tls&sni=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&host=pardazeshvpn-tg24.pages.dev&path=%2F#Germany
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJVUyBGcmVlIDEiLAogICJhZGQiOiAiMTA0LjIxLjgzLjEwOCIsCiAgInBvcnQiOiAiNDQzIiwKICAiaWQiOiAiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwKICAiYWlkIjogIjAiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ3cyIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiaG1zMDIuZnhpYW9taS5zYnMiLAogICJwYXRoIjogIi9saW5rIiwKICAidGxzIjogInRscyIsCiAgInNuaSI6ICJobXMwMi5meGlhb21pLnNicyIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIgp9
 
-vless://a24b4894-414a-48e0-8397-53bccb26aaa3@engage.cloudflareclient.com:443?encryption=none&security=tls&sni=bpla.soonyelnet.workers.dev&type=ws&host=bpla.soonyelnet.workers.dev#Emergency💣
+vless://a24b4894-414a-48e0-8397-53bccb26aaa3@engage.cloudflareclient.com:443?encryption=none&security=tls&sni=bpla.soonyelnet.workers.dev&type=ws&host=bpla.soonyelnet.workers.dev#Emergency
 
 vless://b0286bc2-e17c-4c17-b0e6-d39c93f74937@borhtorhti-asw.pages.dev:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=borhtorhti-asw.pages.dev&fp=randomized&type=ws&sni=borhtorhti-asw.pages.dev#wk1
 
