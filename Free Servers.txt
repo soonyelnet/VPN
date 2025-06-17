@@ -3,3 +3,4 @@ vmess://ewogICAgImFkZCI6ICIxNzIuNjcuMTU2LjIxMCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@172.67.215.253:2052?path=%2FahiWVFUV6Bj3gGKk%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#%40vpnfail_bot%20free%v2ray
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2095?path=%2FRtYBGEwkOwlzf3oV%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#%40vpnfail_bot%20free%v2ray
 vless://7fed5bf9-a1de-41a0-ab89-694265c4895f@104.21.75.66:2095?path=%2FRtYBGEwkOwlzf3oV%3Fed%3D2560&security=none&encryption=none&host=domain2025.dpdns.org&type=ws#%40vpnfail_bot%20free%v2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZndGc0FJRHgwempTZFRPNGR0ODBT@premiumvpnfree.p2kvpn.store:1108/?outline=1#🇸🇬 Donation_P2K
